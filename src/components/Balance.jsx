@@ -2,7 +2,7 @@ import React from 'react'
 
 const Balance = () => {
   return (
-    <div className='w-full shadow rounded-3xl p-5'>
+    <div className='w-full shadow rounded-3xl p-5 h-full'>
       <h2 className='font-bold text-2xl pb-5'>Balance</h2>
       <div className='border-b-2 border-gray-300 flex gap-5 align-bottom items-end'>
         <div className='h-3 bg-amber-500 w-1/6'></div>
